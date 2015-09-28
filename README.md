@@ -1,4 +1,6 @@
-# wForum - smth_bbs based web forum (dvbbs like)
+# wForum - smth_bbs web forum
+wForum is a dvbbs like php opensource forum writen by roy in year 2004.
+
 wForum project home page - https://github.com/zixia/wforum
 
 1. wForum架设在清华大学水木清华BBS系统底层之上
@@ -9,7 +11,7 @@ wForum project home page - https://github.com/zixia/wforum
 6. 项目开发者列表情参考 CREDITS 文件
 7. 最新进展请参考 NEWS 文件
 
-zixia
+zixia Aug 2004
 
 ## Install
 

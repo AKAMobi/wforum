@@ -245,7 +245,7 @@ wForum 和 smthbbs 源代码 bbs2www/html/ 下那个 web 界面可以配合使�
 ```php
 define('COOKIE_PREFIX', '');
 define('COOKIE_PATH', '/');
-```php
+```
 
 				如果两个 web 界面在同一个域名下的不同子域名，共享 cookie 还是可能的。wForum 留出了定义 COOKIE_DOMAIN 常量的接口，如果配置 COOKIE_DOMAIN 常量请一定完全搞明白这样做可能带来的安全问题。
 

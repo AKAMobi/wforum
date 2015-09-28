@@ -5,7 +5,7 @@
 	<xsl:import 
     	href="/usr/share/sgml/docbook/xsl-stylesheets/html/docbook.xsl"/> 
 	<xsl:output method="html" 
-		encoding="gb2312" 
+		encoding="utf-8" 
 		indent="yes" />
 	<xsl:template name="user.head.content">
 		<xsl:comment>
